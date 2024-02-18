@@ -26,6 +26,13 @@ body,
   overflow: hidden;
 }
 
+.container iframe {
+  width: 100%;
+  max-width: 900px;
+  position: relative;
+  height: 500px;
+}
+
 .wrapper {
   position: absolute;
   left: 0;
